@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=temp\ desc\ wind
+comment0.target=java.lang.String\ getWA(int,\ java.lang.String,\ boolean)
+comment1.params=temp\ windci\ humid\ desc
+comment1.target=java.lang.String\ getHA(int,\ int,\ int,\ java.lang.String)
+numComments=2
